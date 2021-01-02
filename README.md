@@ -16,7 +16,7 @@ Developed in Eclipse and Intellij idea.
 Java JDK 15
 
 
-# Applications: 
+# Applications
 
 
 Text Editor can:
@@ -39,13 +39,13 @@ Text Editor can:
  6.Perform Undo/Redo Functionality.
  
  
-# Working: 
+# Working 
  
  
 This text editor is quite intersting.It is easy to use. The buttons are given above like bold, italic and underline is also there. after that there you can change font size, font color, you can also change font style. Moreover, editor is giving buttons of Copy, Cut, Paste that will perform there functions. In Addtion, there is a buttons of Undo, Redo, Delete the undo and redo button can be performed with shortcut keys (ctrl+shift+z) and (ctrl+shift+y) and Delete button will delete the selected text from editor. In Last, you will get Find button which will perfrom Search and Search Next word and replace functionality. Search operation will highlight that word in whole editor. and there is predict word and predict next word buttons that will suggest a next word and the data which is already there.
 
 
-# Supperted Operating System:
+# Supperted Operating System
 
 
 Windows
@@ -54,7 +54,7 @@ Windows
 Linux
 
 
-# Requirements:
+# Requirements
 
 
 (for windows)
@@ -72,7 +72,7 @@ Java SE Development Kit
 -----------------------------------------------------------------------------------------------------------------------------------
 
 
-(for Linux):
+(for Linux)
 
 
 java JDK 11 or above
@@ -93,7 +93,7 @@ If Java SE Runtime Environment is not installed in your system.
 -----------------------------------------------------------------------------------------------------------------------------------
 
 
-(for Windows):
+(for Windows)
 
 
 Download Java SE Runtime Environment with link and install.
