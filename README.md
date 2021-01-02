@@ -192,6 +192,21 @@ Command :
 sudo java -jar TextEditor.jar
 
 
+# Learn More
+
+
+How to install java jdk in windows 10
+
+
+https://www.youtube.com/results?search_query=install+jre+and+jdk+for+windows+10
+
+
+How To Install Oracle Java (JDK) On Ubuntu 20.04 LTS, Debian Linux
+
+
+https://www.youtube.com/watch?v=ogWKP9Lm-Qo
+
+
 # Images
 
 
