@@ -213,4 +213,3 @@ https://www.youtube.com/watch?v=ogWKP9Lm-Qo
 ![alt text](https://github.com/ManishDodeja/TextEditor/blob/main/img/texteditorimg.png?raw=true)
 
 
-![alt text](https://github.com/ManishDodeja/TextEditor/blob/main/img/textPart.png?raw=true)
