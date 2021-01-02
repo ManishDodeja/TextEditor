@@ -144,6 +144,53 @@ After Installing Java SE Runtime Environment:
 Download the installation file from folder of your supported operating system:
 
 
+https://github.com/ManishDodeja/TextEditor/blob/main/exe
+
+
+# Running Installation File
+
+
+(for Windows)
+
+
+Run the .exe file
+
+
+or
+
+
+Run the .jar file
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+(for Linux)
+
+
+Open Terminal and type:
+
+
+Commands :
+
+
+sudo chmod +x TextEditor.run
+
+
+sudo ./TextEditor.run
+
+
+or
+
+
+Run the jar file in terminal
+
+
+Command :
+
+
+sudo java -jar TextEditor.jar
+
 
 # Images
 
