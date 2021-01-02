@@ -126,7 +126,7 @@ Download Java SE Development Kit with link and install.
 https://www.oracle.com/in/java/technologies/javase-jdk15-downloads.htm
 
 
-or
+  or
 
 
 Open Terminal and install openjdk.
@@ -156,7 +156,7 @@ https://github.com/ManishDodeja/TextEditor/blob/main/exe
 Run the .exe file
 
 
-or
+  or
 
 
 Run the .jar file
@@ -180,7 +180,7 @@ sudo chmod +x TextEditor.run
 sudo ./TextEditor.run
 
 
-or
+   or
 
 
 Run the jar file in terminal
